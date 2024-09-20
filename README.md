@@ -1,5 +1,5 @@
 # Regresi-Dummy
-Proyek ini berfokus pada analisis regresi menggunakan variabel dummy, khususnya untuk memodelkan jumlah keberangkatan penumpang. Dalam studi ini,saya menerapkan model regresi linear dengan menggunakan variabel dummy sebagai fitur utama untuk mengidentifikasi dampak spesifik dari faktor-faktor seperti Idul Fitri dan Idul Adha pada jumlah penumpang keberangkatan.
+Proyek ini berfokus pada analisis regresi menggunakan variabel dummy, khususnya untuk memodelkan jumlah penumpang keberangkatan di Pelabuhan Tanjung Perak periode Januari 2014-Desember 2023. Dalam studi ini,saya menerapkan model regresi linear dengan menggunakan variabel dummy sebagai fitur utama untuk mengidentifikasi dampak spesifik dari faktor-faktor seperti Idul Fitri dan Idul Adha pada jumlah penumpang keberangkatan.
 
 # Ringkasan Proyak
 - Tujuan: Menilai bagaimana variabel dummy Idul Fitri mempengaruhi jumlah keberangkatan penumpang.
