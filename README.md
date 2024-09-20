@@ -17,4 +17,4 @@ Proyek ini berfokus pada analisis regresi menggunakan variabel dummy, khususnya 
 - Hasil Analisis: Hasil model dan evaluasi akurasi akan ditampilkan di konsol dan bisa diperiksa di output skrip.
 
 
-Kami harap repositori ini bermanfaat dan dapat menjadi referensi yang berguna untuk analisis regresi dengan variabel dummy. Jika ada pertanyaan atau saran, silakan buka isu atau ajukan pertanyaan di bagian Issues.
+Saya harap repositori ini bermanfaat dan dapat menjadi referensi yang berguna untuk analisis regresi dengan variabel dummy. Jika ada pertanyaan atau saran, silakan buka isu atau ajukan pertanyaan di bagian Issues.
